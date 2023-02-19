@@ -6,7 +6,7 @@
  **Note:** draw_landmarks.py processes whatever files you give it. So it can take up to an hour to annotate the dataset
  
 ## Task List:
-- [x] Finish automating annotations
+- [ ] Finish automating annotations
 - [ ] Incorporate more data
 - [ ] Create a demo application: follow the tutorial below  and refactor the code (around the first half of the video)
 - [ ] Find storage places for data
