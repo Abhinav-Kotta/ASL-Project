@@ -7,6 +7,7 @@
  
 ## Task List:
 - [ ] Finish automating annotations
+  - While running  the draw_landmarks.py the annotated files have to be actively put into another directory solely for annotated images (same as the file structure of       the original dataset).
 - [ ] Incorporate more data
 - [ ] Create a demo application: follow the tutorial below  and refactor the code (around the first half of the video)
 - [ ] Find storage places for data
