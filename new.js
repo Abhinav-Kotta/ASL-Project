@@ -79,6 +79,19 @@ var available_models = {
             "https://media.roboflow.com/homepage/Retail/Screenshot_2023-02-15_at_9.49.03_AM_Medium.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1676541028405"
         ],
         "model": null
+    },
+    "asl-alphabet-recognition": {
+        "name": "asl",
+        "version": 6,
+        "confidence": 0.5,
+        "video": "https://media.roboflow.com/homepage/Retail/Screen_Recording_2023-02-15_at_10.29.04_AM.mov?ik-sdk-version=javascript-1.4.3&updatedAt=1676479650130",
+        "imageGrid": [
+            "https://media.roboflow.com/homepage/Retail/Screenshot_2023-02-15_at_9.47.00_AM_Medium.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1676541028965",
+            "https://media.roboflow.com/homepage/Retail/Screenshot_2023-02-15_at_9.46.41_AM_Medium.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1676541028957",
+            "https://media.roboflow.com/homepage/Retail/pexels-nothing-ahead-7451957_Medium.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1676541028849",
+            "https://media.roboflow.com/homepage/Retail/Screenshot_2023-02-15_at_9.49.03_AM_Medium.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1676541028405"
+        ],
+        "model": null
     }
 };
 
